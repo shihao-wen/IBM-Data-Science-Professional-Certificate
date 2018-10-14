@@ -6,9 +6,12 @@ Data Visualization Assignment which has 4 problems covers the main topic taught 
 
 Problem 1
 ![ScreenShot](Problem 1.png)
+
 Problem 2
 ![ScreenShot](Problem 2.png)
+
 Problem 3
 ![ScreenShot](Problem 3.png)
+
 Problem 4
 ![ScreenShot](Problem 4.png)
